@@ -1,2 +1,2 @@
 # Python-Practice
-Python practice code for various bootcamps, books and tutorials
+Python practice code from various bootcamps, books and tutorials
